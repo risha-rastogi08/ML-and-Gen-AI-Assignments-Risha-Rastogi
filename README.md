@@ -1,1 +1,4 @@
-# ML-and-Gen-AI-Assignments-
+## ML-and-Gen-AI-Assignments
+Name: Risha Rastogi
+Enrollment No.: 05801022025
+College: Indira Gandhi Delhi Technical University for Women
